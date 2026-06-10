@@ -122,11 +122,9 @@ Elevate Labs, Bengaluru
 📧 Email: snehabasugade111@gmail.com
 
 ### GitHub
-
+https://github.com/SnehaBasugade 
 
 ### LinkedIn
-Add your LinkedIn profile link here
-
----
+https://www.Linkedin.com/in/Sneha-basugade-b67739298          
 
 ⭐ "Consistent learning and problem-solving are the keys to becoming a successful software engineer."
