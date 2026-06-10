@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Sneha Basugade]
+description: [Aspiring Software Developer with strong programming skills in Java, Python, and JavaScript. Experienced in developing applications and solving
+real-world problems through projects.Strong foundation in data structures, algorithms, and database management. Passionate about building efficient and scalable software solutions.]
