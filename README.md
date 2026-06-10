@@ -1,10 +1,10 @@
 # SnehaBasugade-1.github.io
 
-# Hi 👋, I'm Sneha Basugade
+# Hii 👋, I'm Sneha Basugade
 
 ## Aspiring Software Developer
 
-Passionate Software Developer with strong programming skills in Java, Python, and JavaScript. Experienced in developing applications and solving real-world problems through projects. Strong foundation in Data Structures, Algorithms, DBMS, and Web Development. Interested in building efficient and scalable software solutions.
+Passionate Software Developer with strong programming skills in Java, Python, and JavaScript. Experienced in developing applications and solving real-world problems through projects. Strong foundation in Data Structures and Algorithms, DBMS, and Web Development. Interested in building efficient and scalable software solutions.
 
 
 ## 🎓 Education
